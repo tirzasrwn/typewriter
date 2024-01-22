@@ -2,6 +2,8 @@
 
 This simple Bash script creates a typewriter-like effect in the terminal, allowing users to type text that is centered on the screen. The script continuously clears the terminal and centers the typed text until the user presses the Enter key.
 
+https://github.com/tirzasrwn/typewriter/assets/52232780/08a82575-2bda-40a5-862a-fc666b26c327
+
 ## How to Use
 
 1. Save the script to a file, for example, `typewriter.sh`.
